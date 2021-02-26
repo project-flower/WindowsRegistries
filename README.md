@@ -1,0 +1,2 @@
+# WindowsRegistries
+Windowsの実用的なレジストリ集
